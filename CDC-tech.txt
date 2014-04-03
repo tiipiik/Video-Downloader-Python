@@ -1,0 +1,2 @@
+Cahier des charges techniques, pour définir les classes à créer et leur imbrication
+Permettra aussi de se répartir le boulot sans se tromper.
